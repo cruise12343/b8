@@ -23,7 +23,7 @@
     "@angular/router": "^6.1.10",
     "bootstrap": "^4.2.1",
     "core-js": "^2.6.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ngx-bootstrap": "^3.2.0",
     "node-sass": "^4.11.0",
     "open-iconic": "^1.1.1",
